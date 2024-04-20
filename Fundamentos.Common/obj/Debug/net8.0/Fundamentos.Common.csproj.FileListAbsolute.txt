@@ -1,0 +1,12 @@
+D:\Documentos\DotNet\FundamentosCSharp\Fundamentos.Common\bin\Debug\net8.0\Fundamentos.Common.deps.json
+D:\Documentos\DotNet\FundamentosCSharp\Fundamentos.Common\bin\Debug\net8.0\Fundamentos.Common.dll
+D:\Documentos\DotNet\FundamentosCSharp\Fundamentos.Common\bin\Debug\net8.0\Fundamentos.Common.pdb
+D:\Documentos\DotNet\FundamentosCSharp\Fundamentos.Common\obj\Debug\net8.0\Fundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\DotNet\FundamentosCSharp\Fundamentos.Common\obj\Debug\net8.0\Fundamentos.Common.AssemblyInfoInputs.cache
+D:\Documentos\DotNet\FundamentosCSharp\Fundamentos.Common\obj\Debug\net8.0\Fundamentos.Common.AssemblyInfo.cs
+D:\Documentos\DotNet\FundamentosCSharp\Fundamentos.Common\obj\Debug\net8.0\Fundamentos.Common.csproj.CoreCompileInputs.cache
+D:\Documentos\DotNet\FundamentosCSharp\Fundamentos.Common\obj\Debug\net8.0\Fundamentos.Common.sourcelink.json
+D:\Documentos\DotNet\FundamentosCSharp\Fundamentos.Common\obj\Debug\net8.0\Fundamentos.Common.dll
+D:\Documentos\DotNet\FundamentosCSharp\Fundamentos.Common\obj\Debug\net8.0\refint\Fundamentos.Common.dll
+D:\Documentos\DotNet\FundamentosCSharp\Fundamentos.Common\obj\Debug\net8.0\Fundamentos.Common.pdb
+D:\Documentos\DotNet\FundamentosCSharp\Fundamentos.Common\obj\Debug\net8.0\ref\Fundamentos.Common.dll
